@@ -1,0 +1,17 @@
+body{
+    background-image: url(https://image.winudf.com/v2/image/Y29tLnB1YmdfbW9iaWxlLnRlbmNlbnQuaWdfc2NyZWVuXzJfMTUyMjE4MjQ5OF8wNDQ/screen-2.jpg?h=800&fakeurl=1&type=.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+#about{
+    background-color: #000;
+    color: #49be25;
+    font-size: 20px;
+    text-align: justify ;  
+}
+
+
+
+ 
