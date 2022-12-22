@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(3, 13, 39);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#img{
+    border-radius: 50%;
+    width: auto;
+    height: 600px;
+    background-size: cover;
+}
