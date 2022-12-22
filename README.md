@@ -1,2 +1,2 @@
 # Web-Technologies
-Thid is a repo for the module Web Technologies in my college.
+This is a repo for the module Web Technologies in my college.
